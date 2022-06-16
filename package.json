@@ -5,7 +5,7 @@
   "author": "Daniel Němec",
   "license": "MIT",
   "scripts": {
-    "convert": "marp --allow-local-files ppt.md -o functional-js-ppt.pdf"
+    "generate": "marp --allow-local-files ppt.md -o functional-js-ppt.pdf"
   },
   "devDependencies": {
     "@marp-team/marp-cli": "^2.0.4",
