@@ -15,7 +15,7 @@ Install pependencies
 yarn
 ```
 
-Generate PDF presentation
+Generate PDF presentation - PDF file will be generated in root level with filename `functional-js-ppt.pdf`
 
 ```bash
 yarn generate
