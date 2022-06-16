@@ -1,0 +1,14 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Němec",
+  "license": "MIT",
+  "scripts": {
+    "convert": "marp --allow-local-files ppt.md -o functional-js-ppt.pdf"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.0.4",
+    "prettier": "^2.6.2"
+  }
+}
