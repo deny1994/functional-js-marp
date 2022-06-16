@@ -9,7 +9,7 @@ Examples used in presentation
 
 ## How to run?
 
-Install pependencies
+Install dependencies
 
 ```bash
 yarn
